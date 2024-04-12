@@ -5,3 +5,7 @@
 .precomp
 lib/.precomp
 
+.DS_Store
+.ipynb_checkpoints/
+Code/
+jupyter.log
